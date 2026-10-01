@@ -1,12 +1,7 @@
-#информация об операционной системе, процессоре
 import platform
-#имя компьютера
 import socket
-#информция о количестве логических процессоров
 import os
-# информация о диске
 import shutil
-# json
 import json
 
 system=platform.system()
